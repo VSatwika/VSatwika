@@ -5,7 +5,7 @@
 - 🔭 I’m currently learning MERN stack
 - ⚙️ I am always looking forward to learning new technologies and implementing them!
 - 🤔 I’m looking for help with contributing to open source projects
-- 💬 Ask me about tech related stuffs
+- 💬 Ask me about tech related stuff
 
 ## 📫 Connect with me on
 
